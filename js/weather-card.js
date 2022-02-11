@@ -1,4 +1,4 @@
-const weatherTextButton = document.querySelector('.weather-header');
+// const weatherTextButton = document.querySelector('.weather-header');
 
 const API_KEY2 = 'e896b25822ba91b260857a5d72755484'
 
@@ -49,7 +49,7 @@ async function renderWeather() {
 
   const temp = weatherList[0].main.temp
   const name = weatherData.city.name
-  weatherTextButton.textContent = `${Math.round(temp)}℃, ${name}`
+  // weatherTextButton.textContent = `${Math.round(temp)}℃, ${name}`
 
   // 모달 창 안에 넣어주기
   const modalBody = document.querySelector('.modal-body')
