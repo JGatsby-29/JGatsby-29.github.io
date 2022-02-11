@@ -1,0 +1,19 @@
+.modal-button {
+  margin-top : 20px;
+  font-size: 40px;
+}
+
+.modal-title {
+  font-size: 50px;
+  color: black;
+}
+
+.btn-close {
+  font-size : 20px;
+}
+
+.modal-font {
+  font-weight : bold;
+  font-family: 'Dongle', sans-serif;
+  font-size : 30px;
+}

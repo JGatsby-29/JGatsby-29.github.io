@@ -1,0 +1,13 @@
+.weather-header {
+  margin-top : 20px;
+  right : 40px;
+  position : fixed;
+  color : white;
+  font-size : 40px;
+  font-weight : bold;
+  font-family: 'Dongle', sans-serif;
+  text-shadow : 2px 2px 2px gray;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}
